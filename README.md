@@ -31,5 +31,9 @@ All the variables in the dataset are explained below.
 
 Finally, **Potability** is the output variable which represents the water is drinkable or not.
 
+## Exploratory data analysis(EDA):
+There are missing values in the dataset. All the missing values are imputed with different techniques.
+After imputation of missing values, EDA is performed on the dataset and got few insights. For detailed explaination please refer python file present in this repository.
+
 ## Model Building and Evaluation:
 Different models are built and are optimized with hyper parameters using GridSearchCV. The results are shown below
